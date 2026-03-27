@@ -1,5 +1,5 @@
-![Resume Banner](https://github.com/Vikrantthenge/vikrant-resume/blob/main/1773479913180.jfif)
+![Resume Banner](https://raw.githubusercontent.com/Vikrantthenge/vikrant-resume/main/1773479913180.jfif)
 
-## Vikrant Thenge – Operations Performance & Analytics Leader
+## Vikrant Thenge – Operations Performance & Analytics Leader  
 
-👉 [Open Resume](https://github.com/Vikrantthenge/vikrant-resume/blob/main/Vikrant%20Thenge%20Resume%20Operations%20Analytics%20.pdf)
+👉 [Open Resume](https://vikrant-thenge-resume-operations-analytics.tiiny.site)
