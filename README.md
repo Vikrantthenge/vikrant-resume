@@ -1,4 +1,4 @@
-![Resume Banner](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/banner.png)
+![Resume Banner](https://github.com/Vikrantthenge/vikrant-resume/blob/main/1773479913180.jfif)
 
 ## Vikrant Thenge – Operations Performance & Analytics Leader
 
