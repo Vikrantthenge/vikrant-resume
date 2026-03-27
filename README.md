@@ -2,4 +2,4 @@
 
 ## Vikrant Thenge – Operations Performance & Analytics Leader
 
-👉 [Open Resume](https://vikrant-thenge-resume-operations-analytics.tiiny.site)
+👉 [Open Resume](https://github.com/Vikrantthenge/vikrant-resume/blob/main/Vikrant%20Thenge%20Resume%20Operations%20Analytics%20.pdf)
